@@ -7,7 +7,7 @@ import zipfile
 
 st.set_page_config(page_title="Ukio Watermark", page_icon="🖼️", layout="centered")
 
-st.title("Ukio • Watermark de imágenes")
+st.title("Ukio • Watermark de imágenes Designed by Pablo R.")
 st.caption("Sube tus fotos y aplica la marca de agua centrada, con transparencia y tamaño ajustables.")
 
 with st.expander("⚙️ Opciones", expanded=True):
